@@ -1,5 +1,5 @@
 ## Aplicacion de ejemplo para implemetar docker.
-Para ejecutar el proyecto debes tener docker instalado.<br>
+Para ejecutar el proyecto debes tener la aplicación docker desktop instalado y ejecutándose.<br>
 Esta implementación usa un volumen nombrado para que el contenido producido en la base de datos no se pierda.<br>
 En este proyecto se monta el contenedor definido en el archivo docker-compose-dev.yml, este en particular está implementado en modo de desarrollo para que al hacer cambios en index.js los cambios se implementen automáticamente.
 # Ejecución
